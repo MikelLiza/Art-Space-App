@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+
+    <string name="previous_button">Back</string>
+    <string name="next_button">Next</string>
+    <string name="artwork_content_description">Artwork Image</string>
+</resources>
