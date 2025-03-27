@@ -2,7 +2,7 @@
 
 An Android gallery app built with Jetpack Compose that showcases artwork with intuitive swipe navigation and button controls.
 
-![App Screenshot](app/src/main/res/drawable/artorias.jpg) *(Example artwork - replace with your screenshot)*
+![App Screenshot](app/src/main/res/drawable/artorias.jpg)
 
 ## Features ✨
 - **Swipe Navigation**: Browse artworks with horizontal swipe gestures
